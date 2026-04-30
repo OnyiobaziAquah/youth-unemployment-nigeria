@@ -2,9 +2,9 @@
 ### A Data-Driven Analysis (2016–2024)
 
 **Author:** Onyiobazi Ejemot Aquah  
-**Data Source:** [ILOSTAT — International Labour Organization](https://ilostat.ilo.org)  
+**Data Source:** [ILOSTAT - International Labour Organization](https://ilostat.ilo.org)  
 **Tools:** Excel · Python (Pandas & Matplotlib)  
-**Status:** Portfolio Project — Data Analytics  
+**Status:** Portfolio Project - Data Analytics  
 
 ---
 
@@ -22,7 +22,7 @@ This project is grounded in **Human Capital Theory** (Schultz, 1961; Becker, 196
 
 ![Educated Youth as Share of Total Unemployment](charts/chart4_mismatch_trend.png)
 
-> **What this chart shows:** Intermediate and Advanced educated youth — those who completed secondary school through to university degree level, account for between **78.9% and 86.9% of all unemployed youth** across every survey year. This metric never drops below 78.9%, never approaches 50%, and shows no meaningful improvement over eight years. That persistence is the definition of a structural problem.
+> **What this chart shows:** Intermediate and Advanced educated youth, those who completed secondary school through to university degree level, account for between **78.9% and 86.9% of all unemployed youth** across every survey year. This metric never drops below 78.9%, never approaches 50%, and shows no meaningful improvement over eight years. That persistence is the definition of a structural problem.
 
 ---
 
