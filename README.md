@@ -74,7 +74,7 @@ The fact that the Mismatch Index has not improved over eight years; through econ
 ## Policy Recommendations
 
 **1. Curriculum Reform Tied to Labour Market Data**  
-Nigeria's educational curricula must be regularly reviewed against actual employer needs, particularly in high-growth sectors: technology, logistics, financial services, and clean energy. National skills councils — as recommended by Adeagbo et al. (2025) — should drive this process with real-time labour market data.
+Nigeria's educational curricula must be regularly reviewed against actual employer needs, particularly in high-growth sectors: technology, logistics, financial services, and clean energy. National skills councils, as recommended by Adeagbo et al. (2025) — should drive this process with real-time labour market data.
 
 **2. Expand Technical and Vocational Education**  
 The data does not suggest that less education is the answer, it suggests that *different* education is needed. Investment in high-quality, industry-partnered technical and vocational pathways could provide a more direct pipeline to employment than academic qualifications alone.
