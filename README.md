@@ -20,7 +20,7 @@ This project is grounded in **Human Capital Theory** (Schultz, 1961; Becker, 196
 
 ## Dashboard Preview
 
-![Educated Youth as Share of Total Unemployment](charts/chart4_mismatch_trend.png)
+![Educated Youth as Share of Total Unemployment](<img width="1094" height="597" alt="chart4 mismatch trend" src="https://github.com/user-attachments/assets/531a9de3-ff52-4da5-9027-32e814018a0b" />)
 
 > **What this chart shows:** Intermediate and Advanced educated youth, those who completed secondary school through to university degree level, account for between **78.9% and 86.9% of all unemployed youth** across every survey year. This metric never drops below 78.9%, never approaches 50%, and shows no meaningful improvement over eight years. That persistence is the definition of a structural problem.
 
