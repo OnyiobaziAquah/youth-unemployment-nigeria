@@ -14,7 +14,7 @@ Nigeria is one of the youngest countries in the world, yet millions of its young
 
 The central finding is striking: **educated youth consistently account for between 79% and 87% of all unemployed youth in Nigeria** across every survey year the exact opposite of what economic theory predicts.
 
-This project is grounded in **Human Capital Theory** (Schultz, 1961; Becker, 1964), which predicts that education increases individual productivity and employability. The data tests that prediction directly in the Nigerian context and finds compelling evidence of a **structural education-employment mismatch**.
+This project is grounded in **Human Capital Theory** (Schultz, 1961 & Becker, 1964), which predicts that education increases individual productivity and employability. The data tests that prediction directly in the Nigerian context and finds compelling evidence of a **structural education-employment mismatch**.
 
 ---
 
